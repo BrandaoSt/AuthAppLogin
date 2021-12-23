@@ -167,4 +167,18 @@ img {
     box-sizing:border-box;
 }
 
-/*Fim login*/
+.form-control {
+    background: transparent;
+    border: none;
+    height: 50px;
+    color: #fff !important;
+    border: 1px solid transparent;
+    background: rgba(255,255,255,.08);
+    border-radius: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+
+    /*Fim login*/
