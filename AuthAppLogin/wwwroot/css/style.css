@@ -179,49 +179,6 @@ img {
 
 /*Inicio login*/
 
-.background {
-    background-image: url("~/image/bg.jpg");
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-}
 
-.form-control {
-    background: transparent;
-    border: none;
-    height: 50px;
-    color: #fff !important;
-    border: 1px solid transparent;
-    background: rgba(255,255,255,.08);
-    border-radius: 40px;
-    padding-left: 20px;
-    padding-right: 20px;
-    -webkit-transition: .3s;
-    -o-transition: .3s;
-    transition: .3s;
-}
-
-.btn.btn-primary {
-    background: #fbceb5 !important;
-    border: 1px solid #fbceb5 !important;
-    color: #000 !important;
-}
-.field-icon {
-    position: absolute;
-    top: 50%;
-    right: 15px;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
-    color: rgba(255, 255, 255, 0.9);
-    width: 1.28571429em;
-    text-align: center;
-    display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
-    font-size: inherit;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
 
     /*Fim login*/
